@@ -1,7 +1,7 @@
 
   ## Title
   Readme Generator using Nodejs  
-  
+
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description 
@@ -16,18 +16,19 @@
   6. [Questions](#Questions)
   
   ## Installation
-  This project requires NodeJs to be installed in your machine. Please follow instructions provided in NodeJs documentation which can be done following the link 'https://nodejs.org/en/download/'   Also need to install v8.0.0 of inquirer package using 'npm install --save inquirer@^8.0.0'. 
+  This project requires NodeJs to be installed in your machine. Please follow instructions provided in NodeJs documentation which can be done following the link 'https://nodejs.org/en/download/'   Also need to install v8.0.0 of inquirer package using 'npm install --save inquirer@^8.0.0'. More details are provided in the Inquirer documentation - 'https://www.npmjs.com/package/inquirer'
   ## Usage
   Application can be executed using the command 'node index.js'
   ## License
  
   The MIT License 
   ## Contributing
-  Click the Contribute <a href='https://github.com/umaparu/readme-gen'>link </a> to open a Pull request and start contributing
+  Click the Contribute <a href='https://github.com/umaparu/readme-gen/contribute'>link </a> to open a Pull request and start contributing
   ## Tests
   Application can be tested by validating the Readme.md file created under samples directory
-  ## Questions
-  umaparu
+  ## Questions  
+  If you have queries please contact me using the below details
+  Github: umaparu 
 
-  u@u.com
+  Email: mailto:uma@u.com
   
