@@ -8,7 +8,7 @@
   This application can be used to generate professional Readme.md files for projects. When the applicaiton is executed it prompts user for various inputs and generates Readme file based on user inputs. This application is written using 'NodeJs' and 'Inquirer' package.
 
      
-![Readme generator Video.](video/Uma-Passwordgenerator.webm)
+![Readme generator Video.](video/readme-uma.mp4)
   
   ## Table of Contents
   1. [Installation](#Installation)
