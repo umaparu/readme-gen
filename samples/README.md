@@ -1,11 +1,11 @@
 
   ## Title
-  aa  
+  Readme Generator using Nodejs  
   
-  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description 
-  aa
+  This application can be used to generate professional Readme.md files for projects. When the applicaiton is executed it prompts user for various inputs and generates Readme file based on user inputs. This application is written using 'NodeJs' and 'Inquirer' package.
   
   ## Table of Contents
   1. [Installation](#Installation)
@@ -16,18 +16,18 @@
   6. [Questions](#Questions)
   
   ## Installation
-  aa
+  This project requires NodeJs to be installed in your machine. Please follow instructions provided in NodeJs documentation which can be done following the link 'https://nodejs.org/en/download/'   Also need to install v8.0.0 of inquirer package using 'npm install --save inquirer@^8.0.0'. 
   ## Usage
-  s
+  Application can be executed using the command 'node index.js'
   ## License
  
-  BSD 3-Clause License 
+  The MIT License 
   ## Contributing
-  ww
+  Click the Contribute <a href='https://github.com/umaparu/readme-gen'>link </a> to open a Pull request and start contributing
   ## Tests
-  edd
+  Application can be tested by validating the Readme.md file created under samples directory
   ## Questions
   umaparu
 
-  dsdsd
+  u@u.com
   
