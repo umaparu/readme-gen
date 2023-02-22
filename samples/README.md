@@ -27,8 +27,9 @@
   ## Tests
   Application can be tested by validating the Readme.md file created under samples directory
   ## Questions  
-  If you have queries please contact me using the below details
-  Github: umaparu 
+  If you have queries please contact me using the below details  
+
+  Github: <a href=https://github.com/umaparu>umaparu</a> 
 
   Email: mailto:uma@u.com
   
