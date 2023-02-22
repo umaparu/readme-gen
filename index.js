@@ -65,6 +65,7 @@ const showUserPrompts = () => {
 
 };
 
+// Write responses to the file
 const writeToFile = responses => {
     writeFileAsync(fileName1, generateMarkdown(responses))
 }
