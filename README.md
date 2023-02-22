@@ -11,7 +11,7 @@
 ![Readme generator Video.](video/readme-uma.mp4)  
 
 <video width="640" height="480" controls>
-  <source src="video/readme-uma.mp4" type="video/mp4">
+  <source src="./video/readme-uma.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>  
 
